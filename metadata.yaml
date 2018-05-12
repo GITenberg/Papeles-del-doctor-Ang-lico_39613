@@ -1,0 +1,32 @@
+_repo: Papeles-del-doctor-Ang-lico_39613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Valdés, Armando Palacio
+    - Palacio Valdes, Armando
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39613'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+title: Papeles del doctor Angélico
+url: http://www.gutenberg.org/ebooks/39613
